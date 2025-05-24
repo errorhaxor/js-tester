@@ -51,7 +51,7 @@ If you don't have VS Code, consider installing it. It is a fine JavaScript edito
 free to use any editor that properly indents JavaScript code and any web server to test
 your solutions.
 
-The local test page hould look like [this](https://criesbeck.github.io/cs325-js-tester/).
+The local test page hould look like [this](https://errorhaxor.github.io/js-tester/).
 
 ## The interface
 
